@@ -8,7 +8,9 @@ Implementation of a TCP server and client for sending files with connection logs
 
 First, you need to clone the repository on your machine, to do this run the following command:
 
-```> git clone https://github.com/diegodallabt/tcp_sockets_to_transfer_files.git```
+\`\`\`
+git clone https://github.com/diegodallabt/tcp_sockets_to_transfer_files.git
+\`\`\`
 
 After having the repository cloned on your machine, both in the server and client files, you **add the address to the variable *HOST* and the connection port *PORT***. Furthermore, **create directory named "transfer" for it work**.
 
