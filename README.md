@@ -1,10 +1,10 @@
 # TCP Sockets with Serverlog
-<img src="https://github.com/diegodallabt/tcp_sockets_to_transfer_files/assets/75504417/874cfb7e-e91d-4b47-8029-49f077c5536d" width="400" height="200" />
+<img src="https://github.com/diegodallabt/tcp_sockets_to_transfer_files/assets/75504417/874cfb7e-e91d-4b47-8029-49f077c5536d" width="400" height="250" />
 
-Implementation of a TCP server and client for sending files, with connection logs from the server.
+Implementation of a TCP server and client for sending files with connection logs from the server.
 
 # How to use
-<img src="https://github.com/diegodallabt/tcp_sockets_to_transfer_files/assets/75504417/01e725ff-f3ec-4fa2-8261-9f1cd22492ad" width="400" height="200" />
+<img src="https://github.com/diegodallabt/tcp_sockets_to_transfer_files/assets/75504417/01e725ff-f3ec-4fa2-8261-9f1cd22492ad" width="400" height="250" />
 
 First, you need to clone the repository on your machine, to do this run the following command:
 
